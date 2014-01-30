@@ -1,5 +1,7 @@
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
+I've read this before, by David Garcia on 1/30/2014.
+
 HTML5 Boilerplate is a professional front-end template for building fast,
 robust, and adaptable web apps or sites.
 
